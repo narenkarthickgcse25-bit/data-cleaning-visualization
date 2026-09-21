@@ -1,0 +1,45 @@
+,,,,,Sheet1
+Name,Age,Salary,Join_Date,Department,Salary_Outlier
+Pam,25,70200 2023-01-15 HR,,,False
+Jane,36,65000 2022-08-01 Finance,,,False
+Alice,22,71350 2021-05-20 HR,,,False
+Bob,22,71841 2023-01-15 IT,,,False
+Pam,25,71250 2023-01-15 HR,,,False
+Jade,40,71841 2023-01-15 Finance,,,False
+Joanne,25 120000 2023-01-16 IT,,,,True
+Kim,33,71568 2021-08-30 HR,,,False
+Sam,40,71841 2022-09-05 IT,,,False
+Eli,36,80100 2022-03-04 HR,,,False
+Joe,22,62000 2022-10-09 Finance,,,False
+Anna,36,72456 2022-04-06 HR,,,False
+Dan,43,71841 2023-01-15 HR,,,False
+Susan,46,66000 2022-05-03 Finance,,,False
+Pamela,36,77421 2023-04-02 HR,,,False
+Susy,41 126001 2023-02-02 IT,,,,True
+Ruth,30,72114 2022-09-05 HR,,,False
+Dan,43,71841 2022-05-03 HR,,,False
+Joanne,25 125600 2023-01-16 IT,,,,True
+Clark,44,76982 2023-01-28 HR,,,False
+Alissa,36,77421 2022-10-05 HR,,,False
+Norma,51 921000 2021-02-04 IT,,,,True
+Anthony,30,61000 2021-08-06 Finance,,,False
+Eli,21,77421 2022-03-04 HR,,,False
+Tony,36,66200 2023-05-18 Finance,,,False
+Alice,22,70000 2021-05-20 HR,,,False
+Samantha,50,77421 2023-01-15 HR,,,False
+Amanda,28,66100 2021-08-23 Finance,,,False
+Jenny,36 801423 2021-09-15 IT,,,,True
+Pam,25,70000 2023-01-15 HR,,,False
+Anthony,30,66000 2021-08-06 Finance,,,False
+Penny,44,77421 2022-09-04 HR,,,False
+Jimmy,38,65000 2024-10-03 HR,,,False
+Tim,40,70050 2023-10-04 HR,,,False
+Fran,47,76000 2023-02-05 IT,,,False
+Jenny,36,75000 2021-09-15 IT,,,False
+Joe,22,66000 2022-10-09 Finance,,,False
+Timmy,44,68000 2023-09-24 IT,,,False
+Sammy,57,66000 2022-10-01 Finance,,,False
+Anna,36,71841 2022-04-06 HR,,,False
+Pam,25,86548 2023-01-15 HR,,,False
+Kim,33 546222 2021-08-30 HR,,,,True
+,,,,,Page 1
